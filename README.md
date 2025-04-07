@@ -67,4 +67,5 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
-![image](https://github.com/user-attachments/assets/de58e289-9239-49cd-b8c3-8ddcf8813223)
+![image](https://github.com/user-attachments/assets/2e86fa54-4e2a-4399-94d8-cdfe2e04ce76)
+
