@@ -51,6 +51,9 @@ $ anvil
 $ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
 ```
 
+
+
+
 ### Cast
 
 ```shell
@@ -64,3 +67,4 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+![image](https://github.com/user-attachments/assets/de58e289-9239-49cd-b8c3-8ddcf8813223)
